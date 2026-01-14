@@ -21,7 +21,7 @@ An intelligent Twitter bot powered by **Gemini 2.5 Flash**, **LangGraph**, and *
 For detailed setup instructions, deployment guides, API documentation, and advanced configuration, visit our comprehensive documentation:
 
 **Complete Project Documentation**
-[https://docs.google.com/document/d/1Gllc127UGPR7H2VsLTIDzKoPkcAl3aZYFwYluvnXItM/edit?usp=sharing](https://docs.google.com/document/d/1Gllc127UGPR7H2VsLTIDzKoPkcAl3aZYFwYluvnXItM/edit?usp=sharing)
+[[https://docs.google.com/document/d/1Gllc127UGPR7H2VsLTIDzKoPkcAl3aZYFwYluvnXItM/edit?usp=sharing]](https://docs.google.com/document/d/1Gllc127UGPR7H2VsLTIDzKoPkcAl3aZYFwYluvnXItM/edit?usp=sharing)
 
 ## Quick Start
 
